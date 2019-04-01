@@ -279,6 +279,7 @@ ol {
 	top: 0;
 	z-index: 99;
 	padding: 15px 15px 0;
+	background:url(../img/page-top-bg/1.jpg);
 }
 
 .header-warp {
@@ -1069,21 +1070,23 @@ ol {
 ---------------------*/
 
 .page-top-section {
-	height: 210px;
-	padding-top: 130px;
+	height: 355px;
+	padding-top: 219px;
 }
 
 .page-info {
 	max-width: 1496px;
 	margin: 0 auto;
 	font-size: 16px;
-	color: #fff;
 	padding-left: 60px;
+	background:url(../img/page-top-bg/1.jpg);
 }
 
 .page-info h2 {
 	color: #fff;
 	font-size: 48px;
+	text-align:center;
+	vertical-align:bottom;
 }
 
 .site-breadcrumb a,
@@ -1225,15 +1228,15 @@ ol {
 .review-section,
 .blog-page,
 .contact-page {
-	padding: 104px 0;
+	padding: 60px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
 	background: #501755;
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(45deg, #501755 0%, #2d1854 100%);
+	background: -webkit-linear-gradient(45deg, #1fa26c 0%, #1b6912 100%);
 	/* Chrome10-25,Safari5.1-6 */
 	background: -o-linear-gradient(45deg, #501755 0%, #2d1854 100%);
-	background: linear-gradient(45deg, #501755 0%, #2d1854 100%);
+	background: linear-gradient(45deg, #1fa26c 0%, #1b6912 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501755', endColorstr='#2d1854', GradientType=1);
 	/* IE6-9 fallback on horizontal gradient */
